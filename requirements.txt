@@ -1,0 +1,7 @@
+numpy
+flask
+tensorflow
+re
+nltk
+pickle
+gunicorn
